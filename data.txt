@@ -1,0 +1,11 @@
+asd,dummyemail@com,#im3vQWZXh%d67J
+456,7777,6c#yL(*RfZ5#ng
+8790,890,Z+FWMPg!1DN)3E
+twilio,ben.bonulo@hotmail.com,eZoIKM(#ENC4o96
+twilio,ben.bonulo@hotmail.com,SnDU51j#(k7XmrMkSnQ
+https://www.alphavantage.co,ben.bonulo@hotmail.com,0HZF6UT6METHOBDQ
+https://newsapi.org,ben.bonulo.hotmail.com,~N3w5API, 6961f874d6f642038b50b9cf84973b08
+https://pixe.la/v1/users,ben.bonulo@hotmail.com,$8CcqODNtz*4TV*Tm#Y2C
+~Nutr!t!0n!c5
+https://developer.nutritionix.com/signup,ben.bonulo@hotmail.com,~Nutr!t!0n!x
+openweathermap,ben.bonulo@hotmail.com, ~Op3nW3@th3rM@p 
